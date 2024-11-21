@@ -3,4 +3,5 @@ HHCBO is the surrogate-assisted evolutionary algorithm for the constrained bi-ob
 There is an example of the constrained bi-objective optimization proble
 ![image](https://github.com/user-attachments/assets/65ccffc7-8cff-4f26-9079-88f76b1c82b2)
 
-The algorithm is coded using Matlab toolbox PlatEMO 4.0: Tian, Ye, et al. "PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum]." IEEE Computational Intelligence Magazine 12.4 (2017): 73-87. More details for NSGAIII-EHVI are shown in the paper "Pang, Yong, et al. "Surrogate-assisted expensive constrained Bi-objective optimization with highly heterogeneous evaluations." Swarm and Evolutionary Computation 83 (2023): 101401." Pleae cite this paper if using this code.
+The algorithm is coded using Matlab toolbox PlatEMO 3.0: Tian, Ye, et al. "PlatEMO: A MATLAB platform for evolutionary multi-objective optimization [educational forum]." IEEE Computational Intelligence Magazine 12.4 (2017): 73-87. This toolbox is also uploaded.
+More details for NSGAIII-EHVI are shown in the paper "Pang, Yong, et al. "Surrogate-assisted expensive constrained Bi-objective optimization with highly heterogeneous evaluations." Swarm and Evolutionary Computation 83 (2023): 101401." Pleae cite this paper if using this code.
